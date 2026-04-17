@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JeanLuizds
-- 👀 I’m interested in IOS
-- 🌱 I’m currently learning IOS and Firebase
-- 💞️ I’m looking to create a App
+- 👀 I’m interested in AI
+- 💞️ I’m looking to create a App and Web Page.
 - 📫 How to reach me jeanluiz@yahoo.com.br
 
 <!---
